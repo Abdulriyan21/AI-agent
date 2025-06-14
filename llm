@@ -1,0 +1,6 @@
+n=int(input("enter the number")
+if num>10:
+	print("biglist")
+else:
+	print("small list")
+
